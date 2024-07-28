@@ -1,12 +1,11 @@
-👋 Hi, I'm a developer with a diverse skill set. I have a strong preference for working with WPF in C#, and I also enjoy developing mobile applications using Flutter (with kotlin integration). Python is another language I prefer for various projects.
+👋 Hi, I'm a developer with a diverse skill set. I have a strong preference for working with WPF in C#, and I also enjoy developing mobile applications using Flutter. Python is another language I prefer for various projects.
 
 Currently, I am working as a machine learning engineer, but I'm always willing to help in my free time. My toolkit includes:
 
-Languages: C#, Python, C++, TypeScript, Dart, Kotlin, Javascript and some Go.
-Libraries/Frameworks: Flutter, React, Django, Electron.
-Mobile Development: Flutter, Dart, JavaScript/Kotlin backend.
-Tools: Visual Studio, VSCode, PyCharm, WebStorm, CLion, GoLand, Android Studio.
-CI/CD: Proficient in using Azure DevOps for continuous integration and deployment.
+* Languages: C#, Python, C++, TypeScript, Dart, Kotlin, Javascript and some Go.
+* Libraries/Frameworks: Flutter, React, Django, Electron.
+* Tools: Visual Studio, VSCode, PyCharm, WebStorm, CLion, GoLand, Android Studio.
+* CI/CD: Proficient in using Azure DevOps for continuous integration and deployment.
 
 <!--
 **CodeSleeker/codesleeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
