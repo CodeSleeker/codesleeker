@@ -7,6 +7,6 @@ Currently, I am working as a machine learning engineer, but I'm always willing t
 * Tools: Visual Studio, VSCode, PyCharm, WebStorm, CLion, GoLand, Android Studio.
 * CI/CD: Proficient in using Azure DevOps for continuous integration and deployment.
 
-[![Static Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/hally-zambrano)
+[![www.linkedin.com/in/hally-zambrano](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hally-zambrano)
 
 
