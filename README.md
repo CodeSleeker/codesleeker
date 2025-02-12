@@ -3,7 +3,7 @@
 Currently, I am working as a machine learning engineer, but I'm always willing to help in my free time. My toolkit includes:
 
 * Languages: C#, Python, C++, TypeScript, Dart, Kotlin, Javascript and some Go.
-* Libraries/Frameworks: Flutter, React, Django, Electron.
+* Libraries/Frameworks: Flutter, React, Django, Electron, WPF, WinForms, Console App, UWP.
 * Tools: Visual Studio, VSCode, PyCharm, WebStorm, CLion, GoLand, Android Studio.
 * CI/CD: Proficient in using Azure DevOps for continuous integration and deployment.
 
